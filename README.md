@@ -1,2 +1,2 @@
-# Chapter-8-
+# Chapter-8
 Looping in Qbasic and Project Handling
